@@ -11,7 +11,7 @@ For this project, you will build a message generator program. Every time a user 
 - Git and GitHub
 - Command line
 
-'''
+```
 function generateRandomNumber(num) {
     // Gets # from 0 -> num - 1
     return Math.floor(Math.random() * num)
@@ -54,4 +54,4 @@ function generateRandomNumber(num) {
   }
   
   formatWisdom(personalWisdom);
-'''
+  ```
